@@ -11,4 +11,4 @@ function download()
 }
 
 #注册全局
-ln -s $EXEC_BASE/bin/tomcat-cli.sh /usr/local/bin/tomcat-cli
+#ln -s $EXEC_BASE/bin/tomcat-cli.sh /usr/local/bin/tomcat-cli
